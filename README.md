@@ -12,7 +12,7 @@ Para que el proyecto funcione correctamente se requiere la creacion de un archiv
 VUE_APP_API_KEY = "apiKey"
 
 
-## Project setup
+## Commands
 ```
 yarn install
 ```
